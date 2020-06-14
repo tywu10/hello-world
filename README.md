@@ -1,0 +1,7 @@
+print("Hello, welcome to TY's multiply!")
+A = int(input("The first number: "))
+B = int(input("The second number: "))
+C = int(input("The third number: (if none, type 1)"))
+print("The Answer to this is")
+print(A * B * C)
+print("thank you for using my program")
